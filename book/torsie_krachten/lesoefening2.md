@@ -38,18 +38,6 @@ source: https://github.com/Structural-Mechanics-CEG/mechanics-figures-source/tre
 
 :::::
 
-% solution_start
-
-::::{admonition} Oplossing
-:class: solution, dropdown
-
-Optie 3 is correct:
-
-De verdeelde belasting werkt naast het dwarskrachtencentrum, dus dit veroorzaakt een wringend moment van $z$ naar $y$. De rechterhandregel geeft dan een vectorpijl in de negatieve $x$-richting.
-
-::::
-
-% solution_end
 
 :::::{exercise}
 :nonumber: true
@@ -62,20 +50,6 @@ Wat weet je over de vorm van de wringende momentenlijn.
 :::::
 
 
-% solution_start
-
-::::{admonition} Oplossing
-:class: solution, dropdown
-
-De wringende momentenlijn verloopt tussen de punten $\rm{A}$ en $\rm{B}$, $\rm{B}$ en $\rm{C}$ *linear*: de constante verdeelde belasting treedt op naast het dwarskrachtencentrum, dus dat zorgt voor een lineair verlopende wringende momentenlijn.
-
-In $\rm{C}$ het wringend moment is gelijk aan *een nog onbekende waarde*: dit uiteinde is geen vrij uiteinde.
-
-Rondom de punten $\rm{A}$ en $\rm{B}$, het wringende moment maakt *een sprong*: de uitwendige geconcentreerde wringende momenten zorgen voor een uitwendig wringend moment, wat een sprong veroorzaakt inde wringende momentenlijn.
-
-::::
-
-% solution_end
 
 :::::{exercise}
 :nonumber: true
@@ -87,19 +61,3 @@ Bepaal de wringend momentenlijn.
 
 :::::
 
-% solution_start
-
-::::{admonition} Oplossing
-:class: solution, dropdown
-
-```{figure} ./lesoefening2_data/Mt-line.svg
----
-align: center
-source: https://github.com/Structural-Mechanics-CEG/mechanics-figures-source/tree/main/torsie2
----
-Wringend momentenlijn
-```
-
-::::
-
-% solution_end
