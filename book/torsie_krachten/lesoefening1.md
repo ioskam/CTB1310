@@ -38,20 +38,6 @@ source: https://github.com/Structural-Mechanics-CEG/mechanics-figures-source/tre
 
 :::::
 
-% solution_start
-
-::::{admonition} Oplossing
-:class: solution, dropdown
-
-Optie 1 is correct:
-
-Ons assenstelsel is altijd rechtsdraaiend, dus een rotatie van bijvoorbeeld z naar x geeft met de rechterhandregel je duim in de richting van de y-as.
-
-Het assenstelsel had daarnaast de verdeelde belastingen en oplegging op de x-as, niet de puntlasten.
-
-::::
-
-% solution_end
 
 :::::{exercise}
 :nonumber: true
@@ -70,18 +56,6 @@ source: https://github.com/Structural-Mechanics-CEG/mechanics-figures-source/tre
 
 :::::
 
-% solution_start
-
-::::{admonition} Oplossing
-:class: solution, dropdown
-
-Optie 1 is correct:
-
-De puntenlasten zorgen voor draaiing van $z$ naar $y$ dus dat is een negatief wringend moment. De verdeelde belasting zorgt niet voor een wringend moment.
-
-::::
-
-% solution_end
 
 :::::{exercise}
 :nonumber: true
@@ -93,20 +67,6 @@ Wat weet je over de vorm van de wringende momentenlijn.
 
 :::::
 
-% solution_start
-
-::::{admonition} Oplossing
-:class: solution, dropdown
-
-De wringende momentenlijn verloopt tussen de punten $\rm{A}$ en $\rm{B}$, $\rm{B}$ en $\rm{C}$, etc *constant*: de verdeelde belasting treedt op in het dwarskrachtencentrum, dus er is geen verdeelde belasting die zorgt voor wringende momenten.
-
-In \(\rm{E}\) het wringend moment is gelijk aan *0*: op het vrije uiteinde werken geen uitwendige wringende momenten, dus de wringende momentenlijn begint op 0.
-
-Rondom de punten $\rm{B}$, $\rm{C}$, $\rm{D}$ en $\rm{E}$, het wringende moment maakt *een sprong*: de puntlasten zorgen voor een uitwendig wringend moment, wat een sprong veroorzaakt inde wringende momentenlijn.
-
-::::
-
-% solution_end
 
 :::::{exercise}
 :nonumber: true
@@ -118,19 +78,3 @@ Bepaal de wringend momentenlijn.
 
 :::::
 
-% solution_start
-
-::::{admonition} Oplossing
-:class: solution, dropdown
-
-```{figure} ./lesoefening_data/Mt-line.svg
----
-align: center
-source: https://github.com/Structural-Mechanics-CEG/mechanics-figures-source/tree/main/torsie2
----
-Wringend momentenlijn
-```
-
-::::
-
-% solution_end
